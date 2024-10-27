@@ -1,0 +1,6 @@
+/Users/abbygamboa/projects/GradeCalculator/GradeCalculator/bin/Debug/GradeCalculator.exe
+/Users/abbygamboa/projects/GradeCalculator/GradeCalculator/bin/Debug/GradeCalculator.pdb
+/Users/abbygamboa/projects/GradeCalculator/GradeCalculator/obj/Debug/GradeCalculator.csproj.AssemblyReference.cache
+/Users/abbygamboa/projects/GradeCalculator/GradeCalculator/obj/Debug/GradeCalculator.csproj.CoreCompileInputs.cache
+/Users/abbygamboa/projects/GradeCalculator/GradeCalculator/obj/Debug/GradeCalculator.exe
+/Users/abbygamboa/projects/GradeCalculator/GradeCalculator/obj/Debug/GradeCalculator.pdb
